@@ -1,4 +1,4 @@
 ws_bootstrap
 ============
 
-Bootstrap Subtheme
+A Bootstrap Sass Subtheme
