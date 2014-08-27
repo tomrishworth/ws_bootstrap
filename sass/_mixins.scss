@@ -9,3 +9,22 @@
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   padding: $padding;
 }
+
+// Media Query Mixin
+@mixin MQ($canvas){
+  @if $canvas == XS{
+     @media only screen and (min-width: $XS) { @content; }
+  }
+  @else if $canvas == S{
+     @media only screen and (min-width: $S) { @content; }
+  }
+  @else if $canvas == M{
+     @media only screen and (min-width: $M) { @content; }
+  }
+  @else if $canvas == L{
+     @media only screen and (min-width: $L) { @content; }
+  }
+  @else if $canvas == XL{
+     @media only screen and (min-width: $XL) { @content; }
+  }
+}
