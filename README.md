@@ -1,7 +1,7 @@
 ws_bootstrap
 ============
 
-A Bootstrap Sass Subtheme by Webscope
+A Drupal Subtheme of Bootstrap Theme with Sass
 
 
 Getting Started
