@@ -9,7 +9,7 @@ Getting Started
 
 `npm install`
 
-the run
+then run
 
 `grunt`
 
