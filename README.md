@@ -7,6 +7,6 @@ A Drupal Subtheme of Bootstrap Theme with Sass
 Getting Started
 ===============
 
-<npm install>
+`npm install`
 
-<grunt>
+`grunt`
