@@ -9,4 +9,8 @@ Getting Started
 
 `npm install`
 
+the run
+
 `grunt`
+
+to compile sass
