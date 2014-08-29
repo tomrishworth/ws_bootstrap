@@ -55,6 +55,9 @@ scripts[] = 'javascripts/bootstrap/transition.js'
 ; ; Disable BootstrapCDN if using Bootstrap source files in your sub-theme.
 settings[bootstrap_cdn] = ''
 
+scripts[] = 'javascripts/bootstrap-select.min.js'
+scripts[] = 'javascripts/bootstrap-validator.min.js'
+scripts[] = 'javascripts/script.js'
 
 ; ;-------------------------
 ; ; METHOD 2: Bootstrap CDN
