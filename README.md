@@ -7,6 +7,6 @@ A Bootstrap Sass Subtheme by Webscope
 Getting Started
 ===============
 
-<npm install>
+`npm install`
 
-<grunt>
+`grunt`
