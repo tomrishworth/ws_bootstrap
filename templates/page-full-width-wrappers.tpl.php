@@ -175,4 +175,5 @@
   <footer class="footer container">
     <?php print render($page['footer']); ?>
   </footer>
+  <a href="http://www.webscope.co.nz" title="Site by Webscope" class="icon-webscope-tag"></a>
 </div>
